@@ -1,4 +1,4 @@
-package com.androiddevs.mvvmnewsapp.ui.fragments
+ package com.androiddevs.mvvmnewsapp.ui.fragments
 
 import android.os.Bundle
 import android.util.Log
